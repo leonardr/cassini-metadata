@@ -1,4 +1,4 @@
-Preprocessed Cassini Metadata
+# Preprocessed Cassini Metadata
 
 This repository contains parsed metadata for all of the images in the
 [Cassini ISS Online Data
@@ -12,6 +12,6 @@ JSON file. The field names are the keywords described in the [ISS Data
 User's
 Guide](https://pds-rings.seti.org/cassini/iss/ISS_Data_User_Guide_120703.pdf).
 
-The overall approach was inspired by John Keegan's
+The overall approach was inspired by Jon Keegan's
 [cassini-tools](https://github.com/jonkeegan/cassini-tools), but the
 code is original.
