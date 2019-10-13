@@ -4,7 +4,7 @@ This repository contains parsed metadata for all of the images in the
 [Cassini ISS Online Data
 Volumes](https://pds-imaging.jpl.nasa.gov/volumes/iss.html). This
 makes it possible to analyze the metadata surrounding the Cassini
-missing images without downloading hundreds of gigabytes of actual
+images without downloading hundreds of gigabytes of actual
 imagery.
 
 Each volume of the original dataset is given its own newline-delimited
